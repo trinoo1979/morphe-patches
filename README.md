@@ -73,9 +73,9 @@ Before requesting a patch:
 
 ## How to use these patches
 
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=rushiranpise/morphe-patches
+Click here to add these patches to Morphe: https://morphe.software/add-source?github=trinoo1979/morphe-patches
 
-Or manually add this repository URL as a patch source in Morphe: https://github.com/rushiranpise/morphe-patches
+Or manually add this repository URL as a patch source in Morphe: https://github.com/trinoo1979/morphe-patches
 
 The latest generated patch source release and channel are shown at the top of the [patches list](#-patches-list).
 
