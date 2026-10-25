@@ -206,7 +206,7 @@ Bug reports must include:
 | 107 | [**MacroDroid**](PATCHES.md#macrodroid-comarlosoftmacrodroid) | 1 | `5.66.9` | [`com.arlosoft.macrodroid`](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid) |
 | 108 | [**Malwarebytes Mobile Security**](PATCHES.md#malwarebytes-mobile-security-orgmalwarebytesantimalware) | 1 | `5.27.0+564` | [`org.malwarebytes.antimalware`](https://play.google.com/store/apps/details?id=org.malwarebytes.antimalware) |
 | 109 | [**MANGA Plus by SHUEISHA**](PATCHES.md#manga-plus-by-shueisha-jpcoshueishamangaplus) | 1 | `2.7.0` | [`jp.co.shueisha.mangaplus`](https://play.google.com/store/apps/details?id=jp.co.shueisha.mangaplus) |
-| 110 | [**Mapy.com**](PATCHES.md#mapycom-czseznammapy) | 1 | `26.8.0` | [`cz.seznam.mapy`](https://play.google.com/store/apps/details?id=cz.seznam.mapy) |
+| 110 | [**Mapy.com**](PATCHES.md#mapycom-czseznammapy) | 1 | `26.9.5` | [`cz.seznam.mapy`](https://play.google.com/store/apps/details?id=cz.seznam.mapy) |
 | 111 | [**MaterialPods**](PATCHES.md#materialpods-compryshedkomaterialpods) | 1 | `6.72` | [`com.pryshedko.materialpods`](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) |
 | 112 | [**MEGA**](PATCHES.md#mega-megaprivacyandroidapp) | 1 | `16.12(262370820)(dcdf0a7f27)` | [`mega.privacy.android.app`](https://play.google.com/store/apps/details?id=mega.privacy.android.app) |
 | 113 | [**Messenger**](PATCHES.md#messenger-comfacebookorca) | 13 | `576.0.0.47.92` | [`com.facebook.orca`](https://play.google.com/store/apps/details?id=com.facebook.orca) |
