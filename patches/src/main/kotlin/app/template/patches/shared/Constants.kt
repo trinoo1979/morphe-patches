@@ -866,7 +866,7 @@ val MAPY_COMPATIBILITY = Compatibility(
         packageName = "cz.seznam.mapy",
         apkFileType = ApkFileType.XAPK,
         appIconColor = 0xE03C31,
-        targets = listOf(AppTarget(version = "26.8.0", versionCode = 26080001))
+        targets = listOf(AppTarget(version = "26.9.5", versionCode = 26090501))
     )
 
 val MATERIAL_PODS_COMPATIBILITY = Compatibility(
